@@ -17,12 +17,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=River1300&layout=compact&show_icons=true&show_owner=false&hide_title=false&theme=dark&hide=java,c,html" />
   </a>
 </p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/River1300">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=River1300&hide=stars,issues&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" />
-  </a>
-</p>
 
 <!--
 **River1300/River1300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
